@@ -1,20 +1,44 @@
-***Lore wise is an easy standalone overlay for viewing any game it supports WIKI while in game.***
+# LoreWise
 
-it doesn't require install and comes in a few options.
+A lightweight standalone overlay that lets you view supported game wikis without leaving the game.
 
-Currently i have made two versions
+- No installation required
+- Does not inject into games
+- Runs as a transparent overlay on top of the game window
 
-1. the Isle version for the video game the isle ( Includes a map overlay )
-2. Lore wise base version
+## Versions
 
-it doesn't inject anything into any game it plays just simply layers over top.
+### The Isle Edition
+Includes:
+- In-game wiki overlay
+- Map overlay
 
-Install:
+### Base Edition
+Includes:
+- Wiki overlay only
 
-1. Extract the folder from the zip.
-2. run the main.exe within
+## Installation
 
-IT NEEDS ADMIN PERMS.
+1. Extract the ZIP file.
+2. Run `Main.exe`.
 
+> **Administrator permissions are required.**
 
-Only for Windows at the moment.
+## Controls
+
+| Action | Shortcut |
+|----------|----------|
+| Open Wiki | `Ctrl + G` |
+| Open Map* | `Ctrl + M` |
+| Lock/Unlock Map* | `Insert` |
+
+\* Available in **The Isle Edition** only.
+
+## Requirements
+
+- Windows
+- Administrator privileges
+
+## Notes
+
+LoreWise works as an overlay and does **not** modify or inject code into any game.

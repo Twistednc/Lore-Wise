@@ -5,7 +5,7 @@ A lightweight standalone overlay that lets you view supported game wikis without
 - No installation required
 - Does not inject into games
 - Runs as a transparent overlay on top of the game window
-
+![Demo](demo.gif)
 ## Versions
 
 ### The Isle Edition

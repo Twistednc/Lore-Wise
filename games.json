@@ -1,0 +1,96 @@
+{
+	"the_isle": {
+    "name": "The Isle",
+    "wiki": "isle.fandom.com",
+    "exe": [
+        "theisle.exe", 
+        "theisle-win64-shipping.exe", 
+        "theisleclient-win64-shipping.exe"
+    ],
+    "dirs": ["the isle", "theisle"]
+  },
+  "valheim": {
+    "name": "Valheim",
+    "wiki": "valheim.fandom.com",
+    "exe": ["valheim.exe"],
+    "dirs": ["valheim"]
+  },
+  "elden_ring": {
+    "name": "Elden Ring",
+    "wiki": "eldenring.fandom.com",
+    "exe": ["eldenring.exe"],
+    "dirs": ["elden ring", "eldenring"]
+  },
+  "stardew_valley": {
+    "name": "Stardew Valley",
+    "wiki": "stardewvalleywiki.com",
+    "exe": ["stardewvalley.exe"],
+    "dirs": ["stardew valley", "stardewvalley"]
+  },
+  "satisfactory": {
+    "name": "Satisfactory",
+    "wiki": "satisfactory.fandom.com",
+    "exe": ["factorygame-win64-shipping.exe"],
+    "dirs": ["satisfactory"]
+  },
+  "rimworld": {
+    "name": "RimWorld",
+    "wiki": "rimworldwiki.com",
+    "exe": ["rimworldwin64.exe", "rimworld.exe"],
+    "dirs": ["rimworld"]
+  },
+  "ark": {
+    "name": "ARK: Survival Evolved",
+    "wiki": "ark.fandom.com",
+    "exe": ["shootergame.exe"],
+    "dirs": ["ark", "shootergame"]
+  },
+  "terraria": {
+    "name": "Terraria",
+    "wiki": "terraria.fandom.com",
+    "exe": ["terraria.exe"],
+    "dirs": ["terraria"]
+  },
+  "minecraft": {
+    "name": "Minecraft",
+    "wiki": "minecraft.fandom.com",
+    "exe": ["javaw.exe", "minecraft.exe", "minecraftlauncher.exe"],
+    "dirs": ["minecraft", ".minecraft"]
+  },
+  "rust": {
+    "name": "Rust",
+    "wiki": "rust.fandom.com",
+    "exe": ["rust.exe"],
+    "dirs": ["rust"]
+  },
+  "subnautica": {
+    "name": "Subnautica",
+    "wiki": "subnautica.fandom.com",
+    "exe": ["subnautica.exe"],
+    "dirs": ["subnautica"]
+  },
+  "no_mans_sky": {
+    "name": "No Man's Sky",
+    "wiki": "nomanssky.fandom.com",
+    "exe": ["nms.exe"],
+    "dirs": ["no man's sky", "nomansskygame"]
+  },
+  "cyberpunk2077": {
+    "name": "Cyberpunk 2077",
+    "wiki": "cyberpunk.fandom.com",
+    "exe": ["cyberpunk2077.exe"],
+    "dirs": ["cyberpunk 2077", "cyberpunk2077"]
+  },
+  "witcher3": {
+    "name": "The Witcher 3",
+    "wiki": "witcher.fandom.com",
+    "exe": ["witcher3.exe"],
+    "dirs": ["the witcher 3", "witcher3"]
+  },
+  "path_of_exile": {
+    "name": "Path of Exile",
+    "wiki": "pathofexile.fandom.com",
+    "exe": ["pathofexile.exe", "pathofexile_x64.exe"],
+    "dirs": ["path of exile"]
+  }
+}

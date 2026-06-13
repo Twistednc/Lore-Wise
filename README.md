@@ -1,4 +1,4 @@
-# LoreWise
+# Lore Wise
 
 A lightweight standalone overlay that lets you view supported game wikis without leaving the game.
 
@@ -52,3 +52,6 @@ https://github.com/Twistednc/Lore-Wise/releases/download/LoreWise/LoreWise-1.0.z
 ## Notes
 
 LoreWise runs as an overlay and does **not** modify or inject code into any game.
+
+
+Made with AI ( sorry, I don't like it either )

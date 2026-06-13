@@ -13,9 +13,19 @@ Includes:
 - In-game wiki overlay
 - Map overlay
 
+**Download:**  
+https://github.com/Twistednc/Lore-Wise/releases/download/The_Isle/The.Isle.overlay.zip
+
+---
+
 ### Base Edition
 Includes:
 - Wiki overlay only
+
+**Download:**  
+https://github.com/Twistednc/Lore-Wise/releases/download/LoreWise/LoreWise-1.0.zip
+
+---
 
 ## Installation
 
@@ -41,4 +51,4 @@ Includes:
 
 ## Notes
 
-LoreWise works as an overlay and does **not** modify or inject code into any game.
+LoreWise runs as an overlay and does **not** modify or inject code into any game.

@@ -15,7 +15,7 @@ Includes:
 
 **Download:**  
 https://github.com/Twistednc/Lore-Wise/releases/download/The_Isle/The.Isle.overlay.zip
-
+without https://www.islemaps.com/ - by Pont & Emeara this overlay wouldn't work so please support them https://ko-fi.com/pontsci
 ---
 
 ### Base Edition
